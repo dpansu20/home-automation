@@ -1,4 +1,5 @@
- #include<ESP8266WiFi.h>
+//WE DID IT.
+#include<ESP8266WiFi.h>
 #include<FirebaseArduino.h>
 #define FIREBASE_HOST "iot-home-automation-12987.firebaseio.com"                     
 #define FIREBASE_AUTH "h3zbBoDpacWeY6C2GzvqHTzooKwSw8xBEtRi08lJ"       
