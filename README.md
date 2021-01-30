@@ -7,6 +7,7 @@
 ### 
 ### 
 
+------------------------------ 
 Collection of all software components and information about hardware components of home automation project made by team 3 in IoT Bootcamp organised by CEV, SVNIT.
 
 #### The `Presentation` folder contains a .ppt file and a circuit diagram, both of which will explain the working of the Home Automation system.
